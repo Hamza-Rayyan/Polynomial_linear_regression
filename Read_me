@@ -1,0 +1,5 @@
+# Project: Truth or Bluff.
+
+# Aim: We have a dataset of 10 designation with the Experience & Salary we train our model so that it can check whether the salary requested by employees are True or bluff.
+# Steps:
+- Importing the libraries.
